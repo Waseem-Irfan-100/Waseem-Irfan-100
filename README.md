@@ -11,6 +11,4 @@ A Sophomore
 - 📫 How to reach me:
 - 📧 Email: waseemirfansyed@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/syed-waseem-irfan
-
-🖥️ Portfolio Website (Add your link here)
 - 😄 Pronouns: He / Him
