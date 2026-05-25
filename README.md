@@ -5,9 +5,8 @@
 
 A Sophomore 
 
-- 🔭 I’m currently working on Neet Rank College Predictor
-- 🏆 Active on Kaggle, solving real-world dataset problems.
-- 🌱 I’m currently learning Advanced Machine Learning & Deep Learning
+- 🔭 I’m currently working Fire Intelligence System
+- 🌱 Learning Advanced Generative AI & Deep Learning
 - 📫 How to reach me:
 - 📧 Email: waseemirfansyed@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/syed-waseem-irfan
